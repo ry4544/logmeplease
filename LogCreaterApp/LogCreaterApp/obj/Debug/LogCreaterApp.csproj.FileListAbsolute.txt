@@ -1,0 +1,15 @@
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\bin\Debug\LogCreaterApp.exe.config
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\bin\Debug\LogCreaterApp.exe
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\bin\Debug\LogCreaterApp.pdb
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\obj\Debug\LogCreaterApp.csprojAssemblyReference.cache
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\obj\Debug\MainWindow.g.cs
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\obj\Debug\App.g.cs
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\obj\Debug\LogCreaterApp_MarkupCompile.cache
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\obj\Debug\LogCreaterApp_MarkupCompile.lref
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\obj\Debug\MainWindow.baml
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\obj\Debug\LogCreaterApp.g.resources
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\obj\Debug\LogCreaterApp.Properties.Resources.resources
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\obj\Debug\LogCreaterApp.csproj.GenerateResource.cache
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\obj\Debug\LogCreaterApp.csproj.CoreCompileInputs.cache
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\obj\Debug\LogCreaterApp.exe
+C:\Users\Ryan.Ward\source\repos\LogCreaterApp\LogCreaterApp\obj\Debug\LogCreaterApp.pdb
